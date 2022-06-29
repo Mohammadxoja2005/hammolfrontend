@@ -1,0 +1,12 @@
+.pagination {
+    position: absolute;
+    left: 882px;
+    margin-bottom: 20px; 
+    display: flex;
+ }
+ 
+ .pagination-element {
+     margin-left: 6px;
+ }
+ 
+ 

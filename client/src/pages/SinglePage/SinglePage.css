@@ -1,0 +1,35 @@
+.single {
+	margin-top: 50px;
+}  
+
+.img-part > img  {
+	width: 450px ;
+	height: 398px;
+	border: 2px solid black;
+	margin-top: 40px;
+} 
+
+.bunch-images  {
+	display: flex;
+	margin-top: 20px;
+}
+
+.bunch-images > img {
+	width: 100px;
+	height: 100px;
+	margin-left: 5px; 
+	margin-right: 5px; 
+	border: 2px solid black;
+} 
+
+.text-part {
+	margin-left: 50px;
+	align-items: center;
+	display: flex;
+} 
+
+.main-text > p {
+	text-transform: capitalize;
+	font-weight: bold;
+	font-size: 21px;
+}
